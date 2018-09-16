@@ -1,2 +1,2 @@
-# paypalraw.php
+# paypal-bot
 Newscat-bot
